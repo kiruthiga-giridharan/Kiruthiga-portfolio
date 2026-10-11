@@ -64,7 +64,7 @@ const circana: Book = {
     gist: "Managed multi-market reporting, improved data quality and automated reporting tasks to support reliable client delivery.",
     meta: [
       { label: "Company", value: "Circana Market Research", wide: true },
-      { label: "Dates", value: "March 2024 to June 2026" },
+      { label: "Dates", value: "March 2024 to Present" },
       { label: "Location", value: "Dublin, Ireland" },
     ],
   },
