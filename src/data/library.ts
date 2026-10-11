@@ -715,7 +715,7 @@ export const journey: Journey = {
       object: "Brass key",
       image: keepsakeKey,
       wide: true,
-      text: "My chapter at Circana came to an end, but the curiosity it helped strengthen stayed with me. Today, I’m building AI and data projects, creating this portfolio and preparing for my next opportunity. I’m carrying forward the lessons, relationships and confidence I gained along the way. I don’t know every detail of the next chapter yet, but I’m ready to discover it, and to build something meaningful.",
+      text: "The next chapter is still taking shape, and I’m looking forward to seeing where it leads. Today, I’m building AI and data projects, creating this portfolio and preparing for my next opportunity. I’m carrying forward the lessons, relationships and confidence I gained along the way. I don’t know every detail of the next chapter yet but I’m ready to discover it and build something meaningful.",
     },
   ],
 };
